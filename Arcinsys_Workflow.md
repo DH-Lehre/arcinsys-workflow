@@ -6,12 +6,13 @@
 
 Arcinsys ist ein webbasiertes Archivsystem, das entwickelt wurde, um den Zugang zu Archivmaterialien einfacher und effizienter zu gestalten. Es ermöglicht Nutzer\*innen, historische Dokumente und Bestände in verschiedenen Archiven online zu recherchieren, zu verwalten und Nutzungsanfragen zu stellen. Nach erfolgreicher Nutzungsbeantragung haben Sie die Möglichkeit, bequem von überall aus auf die archivierten Dokumente - sogenannte Archivalien - zuzugreifen. Der Zugriffsstatus kann dabei transparent nachvollzogen werden.
 
+<br>
+
 >In diesem kurzen Workshop erhalten Sie einen Überblick darüber, wie Sie sich in Arcinsys orientieren, Bestände recherchieren, persönliche Merklisten anlegen und Anfragen für Archivgut erstellen können, sodass Sie das System mithilfe dieser Funktionen im Anschluss effektiv in Ihren Workflow einbinden können. :-)
 
 ## Registrierung
 
 Erst als im System angemeldete Nutzer*in erhalten Sie neben der Bestandsrecherche auch die Möglichkeit, Archivalien zu bestellen und einzusehen. Registrieren Sie sich hierfür auf der Plattform des [Archivinformationssystems des Bundeslandes SH](https://arcinsys.schleswig-holstein.de/arcinsys/start.action#:~:text=Arcinsys%20ist%20ein%20Archivinformationssystem%20der%20Landesarchive%20Hessen,%20Niedersachsen)
-
 
 ## Benutzeroberfläche und Navigation
 
@@ -21,7 +22,9 @@ Nach Anmeldung gelangen Sie zur Benutzeroberfläche, auf der Sie zwischen den Ob
 
 >Einen organisierten Überblick über alle Funktionen erhalten Sie in diesem [Tutorial](https://www.arcinsys.de/docs/tutorial/tutorial_nla_sh.pdf) oder in etwas unübersichtlicher, aber noch detailreicherer Form im [Handbuch](https://www.arcinsys.de/help/arcinsyshandbuch_v26.pdf). Bei Fragen lohnt es sich, dort einen Blick reinzuwerfen. :-)
 
-**Die wichtigsten Arbeitsschritte, werden in den folgenden Kapiteln zusammengefasst.**
+<br>
+
+Die wichtigsten Arbeitsschritte, werden in den folgenden Kapiteln zusammengefasst.
 
 Unter dem Menüpunkt _Navigator_ können Sie sich durch die beteiligten Archive klicken:
 
@@ -39,7 +42,7 @@ Unter dem Menüpunkt _Navigator_ können Sie sich durch die beteiligten Archive 
 
 <br>
 
-3. Ebene: Die einzelnen Archivalien innerhalb eines ausgewählten Bestands
+**3. Ebene: Die einzelnen Archivalien innerhalb eines ausgewählten Bestands**
 
 <br>
 
@@ -65,11 +68,12 @@ Die Funktionsweise ist sehr intuitiv und selbsterklärend.
 - Für eine inklusive Oder-Suche können Sie ein OR zwischen die Wörter setzen.
 - Wenn Eingaben mit einer bestimmten Wort-Reihenfolge gesucht werden sollen, umschließen Sie die Zeichenkette mit Anführungszeichen.
 
+<br>
 ![Erweiterte Suche - Screenshot](img/Erweiterte_Suche_img.png)
-
 
 Die Suchergebnisse werden in einem Facettierungsbaum nach Häufigkeit ihrer Treffer gelistet aufgeführt.
 
+<br>
 Um später auf bestimmte Suchen zurückgreifen zu können, lässt sich jede Suche unter _Suche speichern_ mit einem prägnanten Namen versehen und abspeichern:
 
 ![Suche speichern - Screenshot](img/Suche_speichern_img.png)
@@ -101,7 +105,16 @@ Für die Nutzung von Materialien ist _immer_ eine Kontaktaufnahme mit dem betref
 
 >In Ihrem _Bestellkorb_ (Einkaufskorb-Symbol oben rechts) können Sie Archivalien sammeln, die Sie einsehen möchten. Indem Sie die Bestellung abschicken, wird die Bestellung bei bereits vorhandenem Antrag direkt an das Archiv übermittelt. Ansonsten können Sie auch noch im Bestellvorgang den Nutzungsantrag oder das Nutzungsformular ausfüllen.
 
+## Korrekte Quellenangaben
 
+Möchten Sie Ihre Recherecheergebnisse weiterverarbeiten, so ist es notwendig, eine korrekte wissenschaftliche Veröffentlichung sicherzustellen!
+
+>Archivalien werden in der Regel nach dem Schema *Archivname, Bestand, Signatur, ggf. Seite* zitiert.
+>
+>Falls die Dokumente unter einer bestimmten Lizenz (z. B. Creative Commons) veröffentlicht werden, sollte diese in der Quellenangabe vermerkt sein.
+>Einen Überblick über die verschiedenen Lizenzen erhalten sie [hier](https://creativecommons.org/licenses/?lang=de).
+>
+> ![Screenshot Lizenzen](img/Lizenzen_img.png)
 
 
 
